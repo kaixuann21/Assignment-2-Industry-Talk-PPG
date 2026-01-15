@@ -1,9 +1,5 @@
 # Assignment 2: Industry Talk PPG Poster (Group 7)
-
-## Course Details
-- **Course Name:** Technology and Information System
-- **Course Code:** SECP1513
-- **Academic Session:** 2025/2026
+**Course:** Technology and Information System (SECP1513)
 
 ## Overview
 This Assignment 2 is about Industry Talk 1 by PPG which mentioned 
