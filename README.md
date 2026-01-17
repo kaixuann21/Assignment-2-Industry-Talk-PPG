@@ -1,6 +1,8 @@
 # Assignment 2: Industry Talk PPG Poster (Group 7)
 **Course:** Technology and Information System (SECP1513)
 
+**Group:** 7
+
 ## Overview
 This Assignment 2 is about Industry Talk 1 by PPG which mentioned 
 the importance of Information and Communication Technology (ICT) in 
